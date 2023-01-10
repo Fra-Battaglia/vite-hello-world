@@ -24,7 +24,7 @@ export default {
 }
 
 body {
-	background-color: #222222;
+	background-color: #005960;
 }
 
 .container {
